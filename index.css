@@ -1,0 +1,29 @@
+.excited {
+  color: navy;
+  font-weight: bold;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+a {
+  color: navy;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
